@@ -4,6 +4,9 @@ package com.lfx.refactoring.refactoringnotes.ChapterOne;
  * Created by Fangxing Liu on 2016/8/23.
  */
 public class Notes {
+    {
+        String.valueOf(1d);
+    }
     /**
      * 如果你发现自己需要为程序添加一个特性，而代码的结构使你无法很方便的达成目的，
      * 那就先重构那个程序，使特性的添加比较容易进行，然后再添加特性。
